@@ -1,0 +1,55 @@
+{
+    "version": 1,
+    "name": "Main Menu",
+    "maps": [
+        {
+            "name": "Touch",
+            "id": "0885630b-0b56-4c1e-a444-c0ef347cd816",
+            "actions": [
+                {
+                    "name": "Point",
+                    "type": "Value",
+                    "id": "2aea24dc-0d4c-45ee-8045-f67dabf76980",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Click",
+                    "type": "Button",
+                    "id": "afe99510-6f12-4b78-b2ec-86856e0073f9",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "8eb784e2-bb67-4187-8b72-4acddb89fc7b",
+                    "path": "<Touchscreen>/position",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Point",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "af42453c-f11a-4d03-a159-670813d7f743",
+                    "path": "<Touchscreen>/Press",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Click",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

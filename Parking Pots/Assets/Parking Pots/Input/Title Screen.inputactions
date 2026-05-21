@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "Title Screen",
+    "maps": [
+        {
+            "name": "Touch",
+            "id": "844300ba-dedd-445e-8559-e5bb12e401f5",
+            "actions": [
+                {
+                    "name": "Touch Input",
+                    "type": "Button",
+                    "id": "ada3eacc-b5e0-4fb3-bd01-9f7f46e4e098",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "Press",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "9c59a574-71b1-4a95-aa84-02d3f521bc79",
+                    "path": "<Touchscreen>/Press",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Touch Input",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

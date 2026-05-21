@@ -1,0 +1,23 @@
+# ninja log v5
+52	371	7987443509519330	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	1f31231b204f5d6f
+20	1343	7987443519208058	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	b989122a27be28be
+372	507	7987443510610328	C:/Users/Ryanj/Documents/Parking Pots/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4b556d2f/obj/arm64-v8a/libswappywrapper.so	e115b623c0c42d5c
+27	949	7987443515256827	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	db186113f0a16329
+9	1011	7987443515872694	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	f545c1c38d6b3b75
+14	1036	7987443516108363	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	a5bfdec458791d2e
+33	1078	7987443516487477	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	acc7ee6d67e777ec
+4	1122	7987443516966113	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	803c6e04beb97e30
+39	1263	7987443518391656	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	fe62ed3081a58d6f
+46	1168	7987443517435556	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	468951dc90845cde
+1344	1409	7987443519900798	C:/Users/Ryanj/Documents/Parking Pots/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4b556d2f/obj/arm64-v8a/libgame.so	129a80e941fd325f
+61	496	8003031917365759	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	1f31231b204f5d6f
+497	745	8003031919621097	C:/Users/Ryanj/Documents/Parking Pots/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4b556d2f/obj/arm64-v8a/libswappywrapper.so	e115b623c0c42d5c
+26	1628	8003031928633132	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	f545c1c38d6b3b75
+40	1630	8003031928643133	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	db186113f0a16329
+13	1673	8003031929090098	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	a5bfdec458791d2e
+46	1675	8003031929100096	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	acc7ee6d67e777ec
+19	1772	8003031930088581	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	803c6e04beb97e30
+53	1953	8003031931935130	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	468951dc90845cde
+32	1985	8003031932228454	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	fe62ed3081a58d6f
+6	2094	8003031933307510	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	b989122a27be28be
+2094	2188	8003031934290298	C:/Users/Ryanj/Documents/Parking Pots/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4b556d2f/obj/arm64-v8a/libgame.so	129a80e941fd325f
